@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Desktop\c#\assigment2\assigment2\assigment2\bin\Debug\assigment2.exe.config
+C:\Users\hp\OneDrive\Desktop\c#\assigment2\assigment2\assigment2\bin\Debug\assigment2.exe
+C:\Users\hp\OneDrive\Desktop\c#\assigment2\assigment2\assigment2\bin\Debug\assigment2.pdb
+C:\Users\hp\OneDrive\Desktop\c#\assigment2\assigment2\assigment2\obj\Debug\assigment2.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\c#\assigment2\assigment2\assigment2\obj\Debug\assigment2.Form1.resources
+C:\Users\hp\OneDrive\Desktop\c#\assigment2\assigment2\assigment2\obj\Debug\assigment2.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\c#\assigment2\assigment2\assigment2\obj\Debug\assigment2.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\c#\assigment2\assigment2\assigment2\obj\Debug\assigment2.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\c#\assigment2\assigment2\assigment2\obj\Debug\assigment2.exe
+C:\Users\hp\OneDrive\Desktop\c#\assigment2\assigment2\assigment2\obj\Debug\assigment2.pdb
+C:\Users\hp\OneDrive\Desktop\c#\assigment2\assigment2\assigment2\obj\Debug\assigment2.exe.config
