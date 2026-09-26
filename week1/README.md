@@ -30,7 +30,11 @@ DayoftheWeek = txtdayoftheWeek.Text;
 Month = txtdayofthemonth.Text;
 Day = txtdayofthenumeric.Text;
 Year = txtyear.Text;
+
+
 ![alt text](screnshot/creating-variables.png)
+
+
 
 2. String Concatenation
 Uses the + string operator to combine variables and explicit literal strings (", " and " ") into a single formatted string.
@@ -38,13 +42,23 @@ Uses the + string operator to combine variables and explicit literal strings (",
 
 // Concatenate the variables to display the date
 Show = DayoftheWeek + ", " + Month + " " + Day + ", " + Year;
+
+
+
 ![alt text](screnshot/concatination.png)
+
+
 
 3. Displaying Output in a Label Control
 Sets the .Text property of a Label control to output the concatenated string to the GUI.
 // Display The output
 lbldatoutput.Text = Show;
+
+
+
 ![alt text](screnshot/diplay.png)
+
+
 
 
 
@@ -60,6 +74,8 @@ txtyear.Text = string.Empty;
 lbldatoutput.Text = string.Empty;
 
 ![alt text](screnshot/Clearing.png)
+
+
 
 5. Closing the Application
 Closes the active form window.
