@@ -1,30 +1,25 @@
-# C# Windows Forms Data Processing Guide
+# C# Windows Forms Data Processing
+---
 
-This repository contains a summary and code reference for processing user input in a C# Windows Forms application, based on Chapter 2: Processing Data (*Starting Out with Visual C#*, 6th Edition).
+## Key Concepts
+ 
+**Reading Input with `TextBox` Controls:**  
+   - `TextBox` controls store user input as text via the `.Text` property.
+   - Input strings can be parsed to numeric data types using methods like `int.Parse()`, `double.Parse()`, and `decimal.Parse()`.
+
+**Variable Declarations & Primitive Data Types:**  
+   - Standard C# data types include `string`, `int`, `double`, and `decimal`.
+   - Variables must be declared with a compatible data type before storing or processing data.
+
+**Clearing Controls:**  
+   - Input fields can be emptied using the `.Clear()` method or assigning an empty string (`""`).
+
+**Form Navigation & Lifetime:**  
+   - Methods like `this.Close()` terminate the active form instance and release allocated UI resources.
 
 ---
 
-## Key Concepts Covered
-
-1. **Reading Input with `TextBox` Controls:**  
-   * `TextBox` controls store user input as text via the `.Text` property.
-   * Input strings can be parsed to numeric data types using methods like `int.Parse()`, `double.Parse()`, and `decimal.Parse()`.
-
-2. **Variable Declarations & Primitive Data Types:**  
-   * Standard C# data types include `string`, `int`, `double`, and `decimal`.
-   * Variables must be declared with a compatible data type before storing or processing data.
-
-3. **Clearing Controls:**  
-   * Input fields can be emptied using the `.Clear()` method or assigning an empty string (`""`).
-
-4. **Form Navigation & Lifetime:**  
-   * Methods like `this.Close()` terminate the active form instance and release allocated UI resources.
-
----
-
-## Code Implementations
-
-### 1. Processing User Input & Variable Assignment (`creating-variable.png`)
+## Coding
 
 ```csharp
 // Creating variables to store the user input
