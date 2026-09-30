@@ -1,0 +1,10 @@
+C:\Users\hp\OneDrive\Desktop\assigment1\classAssignment\classAssignment\bin\Debug\classAssignment.exe.config
+C:\Users\hp\OneDrive\Desktop\assigment1\classAssignment\classAssignment\bin\Debug\classAssignment.exe
+C:\Users\hp\OneDrive\Desktop\assigment1\classAssignment\classAssignment\bin\Debug\classAssignment.pdb
+C:\Users\hp\OneDrive\Desktop\assigment1\classAssignment\classAssignment\obj\Debug\classAssignment.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\classAssignment\classAssignment\obj\Debug\classAssignment.Form1.resources
+C:\Users\hp\OneDrive\Desktop\assigment1\classAssignment\classAssignment\obj\Debug\classAssignment.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\assigment1\classAssignment\classAssignment\obj\Debug\classAssignment.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\classAssignment\classAssignment\obj\Debug\classAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\classAssignment\classAssignment\obj\Debug\classAssignment.exe
+C:\Users\hp\OneDrive\Desktop\assigment1\classAssignment\classAssignment\obj\Debug\classAssignment.pdb
