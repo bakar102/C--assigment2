@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Desktop\assigment1\open_file_save_file\open_file_save_file\bin\Debug\open_file_save_file.exe.config
+C:\Users\hp\OneDrive\Desktop\assigment1\open_file_save_file\open_file_save_file\bin\Debug\open_file_save_file.exe
+C:\Users\hp\OneDrive\Desktop\assigment1\open_file_save_file\open_file_save_file\bin\Debug\open_file_save_file.pdb
+C:\Users\hp\OneDrive\Desktop\assigment1\open_file_save_file\open_file_save_file\obj\Debug\open_file_save_file.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\open_file_save_file\open_file_save_file\obj\Debug\open_file_save_file.Form1.resources
+C:\Users\hp\OneDrive\Desktop\assigment1\open_file_save_file\open_file_save_file\obj\Debug\open_file_save_file.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\assigment1\open_file_save_file\open_file_save_file\obj\Debug\open_file_save_file.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\open_file_save_file\open_file_save_file\obj\Debug\open_file_save_file.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\open_file_save_file\open_file_save_file\obj\Debug\open_file_save_file.exe
+C:\Users\hp\OneDrive\Desktop\assigment1\open_file_save_file\open_file_save_file\obj\Debug\open_file_save_file.pdb
+C:\Users\hp\OneDrive\Desktop\assigment1\open_file_save_file\open_file_save_file\obj\Debug\open_file_save_file.exe.config

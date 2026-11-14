@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Desktop\assigment1\assigment4\assigment4\bin\Debug\assigment4.exe.config
+C:\Users\hp\OneDrive\Desktop\assigment1\assigment4\assigment4\bin\Debug\assigment4.exe
+C:\Users\hp\OneDrive\Desktop\assigment1\assigment4\assigment4\bin\Debug\assigment4.pdb
+C:\Users\hp\OneDrive\Desktop\assigment1\assigment4\assigment4\obj\Debug\assigment4.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\assigment4\assigment4\obj\Debug\assigment4.Form1.resources
+C:\Users\hp\OneDrive\Desktop\assigment1\assigment4\assigment4\obj\Debug\assigment4.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\assigment1\assigment4\assigment4\obj\Debug\assigment4.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\assigment4\assigment4\obj\Debug\assigment4.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\assigment4\assigment4\obj\Debug\assigment4.exe
+C:\Users\hp\OneDrive\Desktop\assigment1\assigment4\assigment4\obj\Debug\assigment4.pdb
+C:\Users\hp\OneDrive\Desktop\assigment1\assigment4\assigment4\obj\Debug\assigment4.exe.config

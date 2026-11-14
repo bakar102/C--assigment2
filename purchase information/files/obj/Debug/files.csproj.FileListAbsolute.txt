@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Desktop\assigment1\files\files\obj\Debug\files.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\files\files\obj\Debug\files.Form1.resources
+C:\Users\hp\OneDrive\Desktop\assigment1\files\files\obj\Debug\files.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\assigment1\files\files\obj\Debug\files.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\files\files\obj\Debug\files.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\files\files\bin\Debug\files.exe.config
+C:\Users\hp\OneDrive\Desktop\assigment1\files\files\bin\Debug\files.exe
+C:\Users\hp\OneDrive\Desktop\assigment1\files\files\bin\Debug\files.pdb
+C:\Users\hp\OneDrive\Desktop\assigment1\files\files\obj\Debug\files.exe
+C:\Users\hp\OneDrive\Desktop\assigment1\files\files\obj\Debug\files.pdb
+C:\Users\hp\OneDrive\Desktop\assigment1\files\files\obj\Debug\files.exe.config

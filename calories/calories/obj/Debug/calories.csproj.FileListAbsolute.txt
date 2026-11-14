@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Desktop\assigment1\calories\calories\bin\Debug\calories.exe.config
+C:\Users\hp\OneDrive\Desktop\assigment1\calories\calories\bin\Debug\calories.exe
+C:\Users\hp\OneDrive\Desktop\assigment1\calories\calories\bin\Debug\calories.pdb
+C:\Users\hp\OneDrive\Desktop\assigment1\calories\calories\obj\Debug\calories.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\calories\calories\obj\Debug\calories.Form1.resources
+C:\Users\hp\OneDrive\Desktop\assigment1\calories\calories\obj\Debug\calories.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\assigment1\calories\calories\obj\Debug\calories.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\calories\calories\obj\Debug\calories.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\calories\calories\obj\Debug\calories.exe
+C:\Users\hp\OneDrive\Desktop\assigment1\calories\calories\obj\Debug\calories.pdb
+C:\Users\hp\OneDrive\Desktop\assigment1\calories\calories\obj\Debug\calories.exe.config
