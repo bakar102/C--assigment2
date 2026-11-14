@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Desktop\assigment1\payroll_Time\payroll_Time\obj\Debug\payroll_Time.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\payroll_Time\payroll_Time\obj\Debug\payroll_Time.Form1.resources
+C:\Users\hp\OneDrive\Desktop\assigment1\payroll_Time\payroll_Time\obj\Debug\payroll_Time.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\assigment1\payroll_Time\payroll_Time\obj\Debug\payroll_Time.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\payroll_Time\payroll_Time\obj\Debug\payroll_Time.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\assigment1\payroll_Time\payroll_Time\bin\Debug\payroll_Time.exe.config
+C:\Users\hp\OneDrive\Desktop\assigment1\payroll_Time\payroll_Time\bin\Debug\payroll_Time.exe
+C:\Users\hp\OneDrive\Desktop\assigment1\payroll_Time\payroll_Time\bin\Debug\payroll_Time.pdb
+C:\Users\hp\OneDrive\Desktop\assigment1\payroll_Time\payroll_Time\obj\Debug\payroll_Time.exe
+C:\Users\hp\OneDrive\Desktop\assigment1\payroll_Time\payroll_Time\obj\Debug\payroll_Time.pdb
+C:\Users\hp\OneDrive\Desktop\assigment1\payroll_Time\payroll_Time\obj\Debug\payroll_Time.exe.config
